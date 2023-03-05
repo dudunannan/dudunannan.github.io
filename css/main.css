@@ -1,7 +1,7 @@
   /*载入字体*/
   @font-face {
       font-family: '站酷高端黑';
-      src: url('../fonts/站酷高端黑修订版1.13.ttf') format('ttf');
+      src: url('../fonts/FZSTK.ttf') format('ttf');
       font-weight: normal;
       font-style: normal;
   }
@@ -66,7 +66,7 @@
   .small-title {
       color: gray;
       line-height: 0.5rem;
-      font-size: 10px;
+      font-size: 30px;
   }
   
   .modal-content {
