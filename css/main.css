@@ -17,6 +17,7 @@
   
   .carousel-fade .carousel-inner .active {
       opacity: 1;
+      object-position: center top;
   }
   
   .carousel-fade .carousel-inner .active.left,
