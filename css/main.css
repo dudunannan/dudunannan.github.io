@@ -1,8 +1,7 @@
   /*载入字体*/
   @font-face {
-      font-family: 'JournalRegular';
-      src: url('../fonts/journal-webfont.eot');
-      src: url('../fonts/journal-webfont_162a16fe.eot') format('embedded-opentype'), url('../fonts/journal-webfont.woff') format('woff'), url('../fonts/journal-webfont.ttf') format('truetype'), url('./fonts/journal-webfont.svg') format('svg');
+      font-family: '站酷高端黑';
+      src: url('../fonts/站酷高端黑修订版1.13.ttf') format('ttf');
       font-weight: normal;
       font-style: normal;
   }
